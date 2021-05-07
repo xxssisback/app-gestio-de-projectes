@@ -1,0 +1,145 @@
+input {
+    border-radius: 15px;
+    background-color: white;
+    padding: 3px 10px 3px 10px;
+    border: none;
+}
+
+.login {
+    color: white;
+    font-size: 15px;
+}
+
+.button_login {
+    border-radius: 15px;
+    background-color: #f84b67;
+    color: white;
+    padding: 3px 15px 3px 15px;
+    transition: 0.3s;
+    border: none;
+}
+
+.button_login:hover {
+    border-radius: 15px;
+    background-color: #ffd7dd;
+    color: rgb(0, 0, 0);
+    padding: 3px 15px 3px 15px;
+    transition: 0.3s;
+    border: none;
+}
+
+.formulario, .tabla {
+    background-color: white;
+    padding: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.titulo_formulario {
+    color: #3e3e3e;
+}
+
+.form-textbox {
+    font-size: 17px;
+    line-height: 1.23543;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    width: 100%;
+    height: 2.3em;
+    padding-left: .94118rem;
+    padding-right: .94118rem;
+    color: #6a7b8a;
+    text-align: left;
+    border: 1px solid #d6d6d6;
+    border-radius: 4px;
+    background: #fffc;
+}
+
+.form-textbox-petit{
+    font-size: 17px;
+    line-height: 1.23543;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    width: 100%;
+    height: 2.3em;
+    padding-left: .94118rem;
+    padding-right: .94118rem;
+    color: #6a7b8a;
+    text-align: left;
+    border: 1px solid #d6d6d6;
+    border-radius: 4px;
+    background: #fffc;
+}
+
+.button-white {
+    font-family: "Poppins", sans-serif;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 12px 54px;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    border: 1px solid #a8a8a8;
+    text-transform: uppercase;
+    background: #a8a8a8;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #ffffff;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: block;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.enllaç_modificar{
+    color: #f8ad4b;
+
+}
+
+.enllaç_eliminar{
+    color: #f84b67;
+}
+
+a{
+    color: #f84b67;
+}
+
+.button_none{
+    background-color: white;
+    border: none;
+    transition: all 300ms linear 0s;
+}
+
+.button_calendari{
+    background-color: #f84b67;
+    color: white;
+    border: none;
+    transition: all 0.1s;
+}
+
+.button_calendari:hover{
+    background-color: #ffa4b4;
+    color: rgb(105, 105, 105);
+    border: none;
+    transition: all 0.1s;
+}
+
+/* Calendari */
